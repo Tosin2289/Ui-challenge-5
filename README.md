@@ -1,16 +1,5 @@
 # day5
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Day5 of flutter Ui challenge
+Still on Single Module Ui
+![Screenshot_1672916487](https://user-images.githubusercontent.com/66890167/210765321-4ef2ba17-9c8d-4f00-98b3-acd4316736d9.png)
+![Screenshot_1672916483](https://user-images.githubusercontent.com/66890167/210765458-80ec9a6a-d151-44be-a2ed-a2ff997ce4d6.png)
